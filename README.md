@@ -1,7 +1,7 @@
 # TinyML_OV7670
 
-![1](https://user-images.githubusercontent.com/72989277/187503232-c8c194ff-0bfb-4c70-b3c1-d88c29a46b45.png)
-![2](https://user-images.githubusercontent.com/72989277/187503240-dec391af-8d91-4378-abde-2aee8e48d6b7.png)
+![1](https://user-images.githubusercontent.com/72989277/187579755-a89c72ec-a604-4103-9aeb-aed674b5749e.png)
+![2](https://user-images.githubusercontent.com/72989277/187579763-b71985ff-58b6-4a6a-bf91-8c97b3295edf.png)
 ![3](https://user-images.githubusercontent.com/72989277/187503246-d5b2187e-e4e3-4fe6-bbb0-46d4af62fe28.png)
 ![4](https://user-images.githubusercontent.com/72989277/187503248-a7dafb34-d357-496e-aad0-adbe889cd172.png)
 ![5](https://user-images.githubusercontent.com/72989277/187503250-71e70852-ca17-48c4-a3f1-17d77151da1b.png)
