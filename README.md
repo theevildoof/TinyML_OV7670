@@ -2,17 +2,17 @@
 
 This demo is a part of my GSoC project!
 
-##Link to the Hackster blogs:
+## Link to the Hackster blogs:
 
-Part 1/4: https://www.hackster.io/theevildoof/tutorial-part-1-tinyml-with-ov7670-camera-module-1a99e2
+1. Part 1/4: https://www.hackster.io/theevildoof/tutorial-part-1-tinyml-with-ov7670-camera-module-1a99e2
 
-Part 2/4: https://www.hackster.io/theevildoof/tutorial-part-2-tinyml-with-ov7670-camera-module-1a99e2
+2. Part 2/4: https://www.hackster.io/theevildoof/tutorial-part-2-tinyml-with-ov7670-camera-module-1a99e2
 
-Part 3/4: https://www.hackster.io/theevildoof/tutorial-part-3-tinyml-with-ov7670-camera-module-1a99e2
+3. Part 3/4: https://www.hackster.io/theevildoof/tutorial-part-3-tinyml-with-ov7670-camera-module-1a99e2
 
-Part 4/4: https://www.hackster.io/theevildoof/tutorial-part-4-tinyml-with-ov7670-camera-module-1a99e2
+4. Part 4/4: https://www.hackster.io/theevildoof/tutorial-part-4-tinyml-with-ov7670-camera-module-1a99e2
 
-Full tutorial: https://www.hackster.io/theevildoof/tutorial-tinyml-with-ov7670-camera-module-302e35
+5. Full tutorial: https://www.hackster.io/theevildoof/tutorial-tinyml-with-ov7670-camera-module-302e35
 
 To get started with TinyML, use this blog: https://www.hackster.io/theevildoof/how-to-get-started-with-tensorflow-lite-for-microcontrollers-f0c884
 
