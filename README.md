@@ -6,11 +6,11 @@ This demo is a part of my GSoC project!
 
 1. Part 1/4: https://www.hackster.io/theevildoof/tutorial-part-1-tinyml-with-ov7670-camera-module-1a99e2
 
-2. Part 2/4: https://www.hackster.io/theevildoof/tutorial-part-2-tinyml-with-ov7670-camera-module-1a99e2
+2. Part 2/4: https://www.hackster.io/theevildoof/tutorial-part-2-tinyml-with-ov7670-camera-module-f487a7
 
-3. Part 3/4: https://www.hackster.io/theevildoof/tutorial-part-3-tinyml-with-ov7670-camera-module-1a99e2
+3. Part 3/4: https://www.hackster.io/theevildoof/tutorial-part-3-tinyml-with-ov7670-camera-module-f159c0
 
-4. Part 4/4: https://www.hackster.io/theevildoof/tutorial-part-4-tinyml-with-ov7670-camera-module-1a99e2
+4. Part 4/4: https://www.hackster.io/theevildoof/tutorial-part-4-tinyml-with-ov7670-camera-module-4b4c0f
 
 5. Full tutorial: https://www.hackster.io/theevildoof/tutorial-tinyml-with-ov7670-camera-module-302e35
 
