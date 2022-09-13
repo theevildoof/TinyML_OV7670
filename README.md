@@ -2,7 +2,7 @@
 
 This demo is a part of my GSoC project!
 
-Link to the Hackster blogs:
+##Link to the Hackster blogs:
 
 Part 1/4: https://www.hackster.io/theevildoof/tutorial-part-1-tinyml-with-ov7670-camera-module-1a99e2
 
